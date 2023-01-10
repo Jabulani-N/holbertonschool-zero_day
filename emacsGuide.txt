@@ -1,0 +1,6 @@
+emacs is a lovely piece of program that'll let us make files with multiple lines, and edit them, easily, via this tasty text editor.
+I this magical land, 'C' (capital) means 'control key' and 'M' (capital) means 'meta' which means 'Alt key'.
+if you accidentally backspace twice, you'll find yourself in the help menu.  escape via 'q'.
+save your work via C-x C-s
+leave the editor via C-x C-c
+gl;hf!
