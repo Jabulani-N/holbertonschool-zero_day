@@ -1,0 +1,1 @@
+>> makes echo append instead of reaplce
